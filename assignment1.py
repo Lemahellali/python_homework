@@ -4,7 +4,7 @@ def hello():
 
 
   def greet(name):
-    return f"Hello, {name}!"
+    return f"Hello, {Lema}!"
 
 
 def calc(a, b, operation="multiply"):
