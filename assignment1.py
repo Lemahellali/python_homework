@@ -3,8 +3,8 @@ def hello():
     return "Hello!"
 
 
-def greet(name):
-    return f ("Hello, Lema!")
+  def greet(name):
+    return f"Hello, {name}!"
 
 
 def calc(a, b, operation="multiply"):
