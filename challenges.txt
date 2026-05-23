@@ -1,0 +1,1 @@
+I faced some challenges with saving and running Python files correctly in VS Code on Mac. I also had trouble finding the correct XPath for the OWASP page. I resolved these issues by checking the file location, saving files properly, and testing different XPath expressions.
