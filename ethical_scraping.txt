@@ -1,0 +1,11 @@
+Which sections of the website are restricted for crawling?
+
+Wikipedia restricts several sections, including /w/, /api/, /trap/, and Special pages such as /wiki/Special:, /wiki/Spezial:, and /wiki/Spesial:. It also restricts many project-specific pages such as deletion discussions, spam blacklist pages, copyright problem pages, and some user/admin-related pages.
+
+Are there specific rules for certain user agents?
+
+Yes. Some user agents are fully blocked with Disallow: /, such as MJ12bot, UbiCrawler, DOC, Zao, wget, WebReaper, and others. SemrushBot has a crawl-delay rule of 5 seconds.
+
+Reflection:
+
+Websites use robots.txt to tell bots and scrapers which pages they may or may not access. This promotes ethical scraping because it helps prevent too many fast requests, protects sensitive or high-load pages, and respects the website owner’s rules.
